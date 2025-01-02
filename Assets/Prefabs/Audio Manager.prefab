@@ -306,10 +306,11 @@ MonoBehaviour:
   sfxSource: {fileID: 634123809168978096}
   background: {fileID: 8300000, guid: 6f5329faa1bf3ec4c958005e58389688, type: 3}
   openShop: {fileID: 8300000, guid: 0b2175100c987b44f94f215c3f7acfd2, type: 3}
-  expandPlusSign: {fileID: 8300000, guid: 76722b6e136b2734b99bf76f1eff8bbf, type: 3}
+  expandPlusSign: {fileID: 8300000, guid: 0501c24673d5c784caeb11a4c13df11c, type: 3}
   playCard: {fileID: 8300000, guid: c3186ae38f0a6f44ab4983cc76f6f413, type: 3}
-  warWin: {fileID: 8300000, guid: 0799ea91338ea164b9e1ba6267f33ecd, type: 3}
-  warLose: {fileID: 8300000, guid: fafa5b99a05b806409894e4bd55ed90b, type: 3}
+  warWin: {fileID: 8300000, guid: 0588d6cc59f0bef4ea438fcf9f72f2ff, type: 3}
+  war: {fileID: 8300000, guid: 050786b1a0d9ea64f8b3a450a9b05003, type: 3}
+  warLose: {fileID: 8300000, guid: 0cf8792cd7e411c4193e7b53a7137d48, type: 3}
   winPoints: {fileID: 8300000, guid: 8cf1d11c8d409284caabf6694a57d80d, type: 3}
   noMoreCards: {fileID: 8300000, guid: d5e91cb98f2ab6a4e8389c0212fd4942, type: 3}
   levelUp: {fileID: 8300000, guid: f3bda6541fdc8754c9d3d43c8d7e1522, type: 3}

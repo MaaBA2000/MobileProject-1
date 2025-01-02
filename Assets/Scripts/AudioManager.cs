@@ -16,6 +16,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip expandPlusSign;
     public AudioClip playCard;
     public AudioClip warWin;
+    public AudioClip war;
     public AudioClip warLose;
     public AudioClip winPoints;
     public AudioClip noMoreCards;
